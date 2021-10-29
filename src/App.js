@@ -42,7 +42,7 @@ import React,{Component} from "react";
               <Users loading={this.state.loading} users={this.state.users_data} />
             </div>
             <footer className="footer">
-              <h1>Created By <a href="https://www.linkedin.com/in/meghna-arora-0b0894194/" target="_blank">Meghna Arora</a> | All copyrights reserved </h1>
+              <h1>Created By <a href="https://www.linkedin.com/in/nitya-malik-836028203/" target="_blank">Nitya Malik</a> | All copyrights reserved </h1>
             </footer>
           </>
         );
